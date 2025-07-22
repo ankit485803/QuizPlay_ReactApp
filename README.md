@@ -2,6 +2,15 @@
 
 A fun and interactive frontend quiz app built with **React**. Users can play quizzes, get instant feedback, and see their scores!
 
+
+## Inshort: 
+QuizPlay - A Dynamic Quiz Application with Score Dashboard & Countdown Timer 
+
+A responsive, frontend-based quiz platform featuring a countdown timer for each quiz session, real-time score tracking, and a clean summary dashboard.
+
+
+
+
 ## 🚀 Features
 - Play quizzes with multiple-choice questions  
 - Track score and progress  
