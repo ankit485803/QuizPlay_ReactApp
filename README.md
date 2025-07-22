@@ -24,12 +24,15 @@ npm start
 
 
 
-## 🖼️ Dashboard Preview
-
-![QuizPlay Dashboard](https://github.com/ankit485803/QuizPlay_ReactApp/blob/main/Dashboard_App.png)
-
 
 
 ## 🖼️ Dashboard Preview
 
 ![QuizPlay Dashboard](https://raw.githubusercontent.com/ankit485803/QuizPlay_ReactApp/main/Dashboard_App.png)
+
+
+<br><br>
+
+<!--  This section for dashboard -->
+
+![QuizPlay Preview](Dashboard_App.png)
